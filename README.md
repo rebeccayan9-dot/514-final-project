@@ -28,16 +28,16 @@ Using an onboard MPU-6050 IMU (accelerometer), the device continuously tracks:
 
 ### Bill of Materials (Sensor):
 
-- Microcontroller: Seeed Studio XIAO ESP32C3 (Supports BLE & Battery Charge)
+- Microcontroller: Seeed Studio XIAO ESP32C3 (Supports BLE & Battery Charge) X 1
 
-- Sensor: InvenSense MPU-6050 (6-axis Accelerometer/Gyro)
+- Sensor: InvenSense MPU-6050 (6-axis Accelerometer/Gyro) X 1 
 
-- Power: 3.7V 400mAh LiPo Battery
+- Power: 3.7V 400mAh LiPo Battery X 1
 
-- User Interface: 3mm LED (Red/Green) for status indication
+- User Interface: 3mm LED (Red/Green) for status indication X 1
 
-- Mounting: N52 Neodymium Magnetic Backplate
-- Enclosure: Custom 3D-printed housing (PLA/PETG)
+- Mounting: N52 Neodymium Magnetic Backplate X 1
+- Enclosure: Custom 3D-printed housing (PLA/PETG) X 1
 
 
 ## Display
@@ -54,17 +54,17 @@ The display unit is a minimalist, custom-designed desktop gauge that visualizes 
 
 ### Bill of Materials (Display):
 
-- Microcontroller: Seeed Studio XIAO ESP32C3 (Surface mounted on Custom PCB)
+- Microcontroller: Seeed Studio XIAO ESP32C3 (Surface mounted on Custom PCB) X 1
 
-- Actuator: 28BYJ-48 5V Stepper Motor
+- Actuator: 28BYJ-48 5V Stepper Motor X 1
 
-- Motor Driver: ULN2003 Driver IC (Integrated on PCB)
+- Motor Driver: ULN2003 Driver IC (Integrated on PCB) X 1
 
-- User Interface: Capacitive Touch Button with integrated WS2812B RGB LED Ring
+- User Interface: Capacitive Touch Button with integrated WS2812B RGB LED Ring X 1
 
-- Power: 3.7V 1000mAh LiPo Battery (USB-C Rechargeable)
+- Power: 3.7V 1000mAh LiPo Battery (USB-C Rechargeable) X 1
 
-- Enclosure: Custom 3D-printed housing (PLA/PETG)
+- Enclosure: Custom 3D-printed housing (PLA/PETG) X 1
 
 ## Diagrams
 
