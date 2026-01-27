@@ -68,7 +68,11 @@ The display unit is a minimalist, custom-designed desktop gauge that visualizes 
 
 ## Diagrams
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6c21b9b6-9a5f-41c6-a959-890110ea0382" />
+<img width="1024" height="559" alt="a53019d271e0a4aae08eea39ea2153bc" src="https://github.com/user-attachments/assets/598ccad3-3f3d-41e0-8d17-3f61c5b56335" />
+
+## Schematics
+<img width="3507" height="2480" alt="f02a8063b78feb26e99573e49d8aadef" src="https://github.com/user-attachments/assets/929e8263-ac15-4c79-b41c-215f01364463" />
+
 
 ### Figure 1: Device Communication Architecture (Hardware Breakdown)
 
