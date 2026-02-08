@@ -87,13 +87,6 @@ One of the critical challenges in shifting from a simple accelerometer (old vers
     * `If Gesture (OK)` -> Gauge Node resets to 0, LED blinks Green.
 4.  **Alert:** When timer hits 60 mins -> LED pulses Red -> Motor vibrates needle.
 5.  **Auto-Off:** If user is away for >5 mins -> System saves state and enters Deep Sleep.
-=======
-<img width="1024" height="559" alt="a53019d271e0a4aae08eea39ea2153bc" src="https://github.com/user-attachments/assets/598ccad3-3f3d-41e0-8d17-3f61c5b56335" />
-
-## Schematics
-<img width="3507" height="2480" alt="f02a8063b78feb26e99573e49d8aadef" src="https://github.com/user-attachments/assets/929e8263-ac15-4c79-b41c-215f01364463" />
-
->>>>>>> a7b67d9ae5472b5b6002de1ede0b50646f327fe4
 
 
 
