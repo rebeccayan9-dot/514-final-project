@@ -1,6 +1,8 @@
-# Rest Radar
+# stand up
 ## Overview
-**FocusFlow** (formerly Rest Radar) is a physical workspace wellness system designed to help you balance deep work and rest.
+**Stand UP** (formerly Rest Radar) is a physical workspace wellness system designed to help you balance deep work and rest.
+camera code: https://github.com/rebeccayan9-dot/514-project-camera
+display code: https://github.com/rebeccayan9-dot/514-display
 
 In the previous iteration, we used a wearable sensor. We found that wearables can be intrusive and easily forgotten. **FocusFlow** solves this by shifting to an **ambient computing** approach. It consists of two wireless desktop nodes:
 1.  **Sensor:** A smart camera that passively detects your presence and understands gestures.
